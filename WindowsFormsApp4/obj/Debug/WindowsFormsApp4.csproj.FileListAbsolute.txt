@@ -1,0 +1,184 @@
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\DarkWolf\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\source\repos\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\ayarla\FallingBall\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\ayarla\FallingBallZugSon\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\Desktop\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\source\repos\SonArtıkIns\FallingBallZugSon(1)\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.skorKaydet.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.skorKaydet.resources
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Documents\Desktop\New folder\FallingBallZugSon\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Oyun.resources
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Skor.resources
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.skorKaydet.resources
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Zug\Documents\asanSalla\FallingBallZugSon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
